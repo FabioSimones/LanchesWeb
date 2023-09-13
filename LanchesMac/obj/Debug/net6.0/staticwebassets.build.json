@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cSd0sRjCNjqZShFjQf6MZcKX/9hnIC3/swVSd3F2bCw=",
+  "Hash": "970lIcT/01/iyAyLPwAbjlmPHydbnYsPvONlh5ir2Xk=",
   "Source": "LanchesMac",
   "BasePath": "_content/LanchesMac",
   "Mode": "Default",
@@ -153,12 +153,12 @@
       "OriginalItemSpec": "wwwroot\\images\\carousel13.jpg"
     },
     {
-      "Identity": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\carrinhoCompras.png",
+      "Identity": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\carrinho-de-compras.png",
       "SourceId": "LanchesMac",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\",
       "BasePath": "_content/LanchesMac",
-      "RelativePath": "images/carrinhoCompras.png",
+      "RelativePath": "images/carrinho-de-compras.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,7 +167,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\carrinhoCompras.png"
+      "OriginalItemSpec": "wwwroot\\images\\carrinho-de-compras.png"
     },
     {
       "Identity": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\conversa.png",
