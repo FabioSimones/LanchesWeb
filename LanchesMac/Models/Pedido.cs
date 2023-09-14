@@ -29,9 +29,11 @@ namespace LanchesMac.Models
         [Display(Name = "CEP")]
         public string Cep { get; set; }
 
-        [StringLength(50)]
+        [Required(ErrorMessage = "Informe o estado.")]
+        [StringLength(25)]
         public string Estado { get; set; }
 
+        [Required(ErrorMessage = "Informe a cidade.")]
         [StringLength(50)]
         public string Cidade { get; set; }
 
