@@ -53,6 +53,10 @@
       "PackagePath": "staticwebassets\\images\\lixeira-de-reciclagem.png"
     },
     {
+      "Id": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\pagina-de-login.png",
+      "PackagePath": "staticwebassets\\images\\pagina-de-login.png"
+    },
+    {
       "Id": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
