@@ -57,6 +57,10 @@
       "PackagePath": "staticwebassets\\images\\pagina-de-login.png"
     },
     {
+      "Id": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\registo.png",
+      "PackagePath": "staticwebassets\\images\\registo.png"
+    },
+    {
       "Id": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
