@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iK5lAHtIM+tQ5sF9b9DdgDmUXoy3csCnMTZlocMoTTk=",
+  "Hash": "NeCY8iSs5WW5on2u+URLJO+ye4xt5aT6JzO6qVVgJbI=",
   "Source": "LanchesMac",
   "BasePath": "_content/LanchesMac",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\acesso-negado.png",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "images/acesso-negado.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\acesso-negado.png"
     },
     {
       "Identity": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\admin-com-dentadas.png",
