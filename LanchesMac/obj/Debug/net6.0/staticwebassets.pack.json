@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\admin-com-dentadas.png",
+      "PackagePath": "staticwebassets\\images\\admin-com-dentadas.png"
+    },
+    {
       "Id": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\botao-de-inicio.png",
       "PackagePath": "staticwebassets\\images\\botao-de-inicio.png"
     },
