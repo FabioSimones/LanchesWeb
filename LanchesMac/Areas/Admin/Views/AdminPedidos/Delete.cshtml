@@ -1,14 +1,13 @@
 ﻿@model LanchesMac.Models.Pedido
 
 @{
-    ViewData["Title"] = "Delete";
+    ViewData["Title"] = "Excluir pedido";
 }
 
-<h1>Delete</h1>
+<h1>@ViewData["Title"]</h1>
 
-<h3>Are you sure you want to delete this?</h3>
+<h3>Você realmente deseja excluir isso?</h3>
 <div>
-    <h4>Pedido</h4>
     <hr />
     <dl class="row">
         <dt class = "col-sm-2">
@@ -78,10 +77,10 @@
             @Html.DisplayFor(model => model.PedidoEntregueEm)
         </dd>
     </dl>
-    
+
     <form asp-action="Delete">
         <input type="hidden" asp-for="PedidoId" />
-        <input type="submit" value="Delete" class="btn btn-danger" /> |
-        <a asp-action="Index">Back to List</a>
+        <input type="submit" value="Excluir" class="btn btn-danger" />
+        <a asp-action="Index" type="button" class="btn btn-secondary">Voltar</a>
     </form>
 </div>
