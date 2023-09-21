@@ -69,6 +69,14 @@
       "PackagePath": "staticwebassets\\images\\registo.png"
     },
     {
+      "Id": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\uploads-na-nuvem.png",
+      "PackagePath": "staticwebassets\\images\\uploads-na-nuvem.png"
+    },
+    {
+      "Id": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\visualizar-arquivo.png",
+      "PackagePath": "staticwebassets\\images\\visualizar-arquivo.png"
+    },
+    {
       "Id": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
