@@ -49,6 +49,10 @@
       "PackagePath": "staticwebassets\\images\\envelope.png"
     },
     {
+      "Id": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\erro.png",
+      "PackagePath": "staticwebassets\\images\\erro.png"
+    },
+    {
       "Id": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\flip-phone.png",
       "PackagePath": "staticwebassets\\images\\flip-phone.png"
     },
@@ -63,6 +67,14 @@
     {
       "Id": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\pagina-de-login.png",
       "PackagePath": "staticwebassets\\images\\pagina-de-login.png"
+    },
+    {
+      "Id": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\produtos\\carousel2.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\carousel2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\produtos\\carousel3.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\carousel3.jpg"
     },
     {
       "Id": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\registo.png",

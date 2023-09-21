@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Gg6aUa3EoWkcI4gWKUMuu7PHmhYwbrJZz9t8d7Q7P+c=",
+  "Hash": "2xNxo5vyHUBrRCfUeiGRLuPqPRTBhvjhMMdj5MBEiSY=",
   "Source": "LanchesMac",
   "BasePath": "_content/LanchesMac",
   "Mode": "Default",
@@ -238,6 +238,23 @@
       "OriginalItemSpec": "wwwroot\\images\\envelope.png"
     },
     {
+      "Identity": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\erro.png",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "images/erro.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\erro.png"
+    },
+    {
       "Identity": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\flip-phone.png",
       "SourceId": "LanchesMac",
       "SourceType": "Discovered",
@@ -304,6 +321,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\pagina-de-login.png"
+    },
+    {
+      "Identity": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\produtos\\carousel2.jpg",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "images/produtos/carousel2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\produtos\\carousel2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\produtos\\carousel3.jpg",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "images/produtos/carousel3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\produtos\\carousel3.jpg"
     },
     {
       "Identity": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\registo.png",
