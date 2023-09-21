@@ -103,6 +103,9 @@ Total de pedidos : @Model.TotalRecordCount
                 <td>
                     <a asp-action="Delete" asp-route-id="@item.PedidoId" type="button" class="btn btn-danger">Excluir</a>
                 </td>
+                <td>
+                    <a asp-action="PedidoLanches" asp-route-id="@item.PedidoId" type="button" class="btn btn-dark">Exibir Itens</a>
+                </td>
             </tr>
         }
     </tbody>
