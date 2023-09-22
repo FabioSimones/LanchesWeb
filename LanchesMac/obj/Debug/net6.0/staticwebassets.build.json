@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2xNxo5vyHUBrRCfUeiGRLuPqPRTBhvjhMMdj5MBEiSY=",
+  "Hash": "CLNOgzvP0CZ500bSfgbc9kKwLWz0mHnH1MrrCqaYM3I=",
   "Source": "LanchesMac",
   "BasePath": "_content/LanchesMac",
   "Mode": "Default",
@@ -323,12 +323,12 @@
       "OriginalItemSpec": "wwwroot\\images\\pagina-de-login.png"
     },
     {
-      "Identity": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\produtos\\carousel2.jpg",
+      "Identity": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\produtos\\lanches-mais-vendidos-no-brasil.jpg",
       "SourceId": "LanchesMac",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\",
       "BasePath": "_content/LanchesMac",
-      "RelativePath": "images/produtos/carousel2.jpg",
+      "RelativePath": "images/produtos/lanches-mais-vendidos-no-brasil.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,24 +337,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\produtos\\carousel2.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\produtos\\carousel3.jpg",
-      "SourceId": "LanchesMac",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\",
-      "BasePath": "_content/LanchesMac",
-      "RelativePath": "images/produtos/carousel3.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\produtos\\carousel3.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\produtos\\lanches-mais-vendidos-no-brasil.jpg"
     },
     {
       "Identity": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\registo.png",

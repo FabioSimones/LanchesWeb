@@ -69,12 +69,8 @@
       "PackagePath": "staticwebassets\\images\\pagina-de-login.png"
     },
     {
-      "Id": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\produtos\\carousel2.jpg",
-      "PackagePath": "staticwebassets\\images\\produtos\\carousel2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\produtos\\carousel3.jpg",
-      "PackagePath": "staticwebassets\\images\\produtos\\carousel3.jpg"
+      "Id": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\produtos\\lanches-mais-vendidos-no-brasil.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\lanches-mais-vendidos-no-brasil.jpg"
     },
     {
       "Id": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\registo.png",
