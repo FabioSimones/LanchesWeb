@@ -14,7 +14,7 @@ namespace LanchesMac.Areas.Admin.Services
 
         public List<LancheGrafico> GetVendasLanches(int dias=360)
         {
-            var data = DateTime.Now.AddDays(-360);
+            var data = DateTime.Now.AddDays(-dias);
             var lanches = (from pd in _appDbContext.PedidoDetalhes
                            join l in _appDbContext.Lanches on pd.LancheId equals l.LancheId
                            where pd.Pedido.PedidoEnviado >= data
