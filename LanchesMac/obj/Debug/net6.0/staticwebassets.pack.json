@@ -57,6 +57,10 @@
       "PackagePath": "staticwebassets\\images\\flip-phone.png"
     },
     {
+      "Id": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\hamburguer.png",
+      "PackagePath": "staticwebassets\\images\\hamburguer.png"
+    },
+    {
       "Id": "C:\\Users\\fabin\\Documents\\Estudos C#\\LanchesMac\\LanchesMac\\wwwroot\\images\\iconeCarrinho.png",
       "PackagePath": "staticwebassets\\images\\iconeCarrinho.png"
     },
