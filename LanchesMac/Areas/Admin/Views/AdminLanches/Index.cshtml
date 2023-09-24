@@ -16,9 +16,10 @@ Total de lanches : @Model.TotalRecordCount
     <vc:pager paging-list="@Model"></vc:pager>
 </div>
 
-<p>
+<div class="row">
     <a asp-action="Create" type="button" class="btn btn-primary">Adicionar novo lanche</a>
-</p>
+    <a asp-controller="AdminLanchesReport" asp-action="LanchesCategoriaReport" type="button" class="btn btn-secondary">Gerar Relatório</a>
+</div>
 <div class="row">
     <div class="col-md-10">
         <table class="table">

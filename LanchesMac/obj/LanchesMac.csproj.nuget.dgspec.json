@@ -45,6 +45,30 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "FastReport.Data.MsSql": {
+              "target": "Package",
+              "version": "[2021.4.0, )"
+            },
+            "FastReport.Data.MySql": {
+              "target": "Package",
+              "version": "[2020.4.11, )"
+            },
+            "FastReport.OpenSource": {
+              "target": "Package",
+              "version": "[2020.4.11, )"
+            },
+            "FastReport.OpenSource.Data.MsSql": {
+              "target": "Package",
+              "version": "[2020.4.11, )"
+            },
+            "FastReport.OpenSource.Export.PdfSimple": {
+              "target": "Package",
+              "version": "[2020.4.11, )"
+            },
+            "FastReport.OpenSource.Web": {
+              "target": "Package",
+              "version": "[2020.4.11, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.22, )"
